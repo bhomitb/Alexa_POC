@@ -1,0 +1,22 @@
+{
+  "name": "alexa_lbl",
+  "version": "1.0.0",
+  "description": "Alexa skill for financial planning poc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhomitb/Alexa_POC.git"
+  },
+  "author": "BhomitB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhomitb/Alexa_POC/issues"
+  },
+  "homepage": "https://github.com/bhomitb/Alexa_POC#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  }
+}
